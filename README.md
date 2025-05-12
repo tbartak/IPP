@@ -1,4 +1,4 @@
-# Implementační dokumentace k 2. úloze do IPP 2023/2024
+# Implementační dokumentace k 2. úloze do IPP 2023/2024 (interpreter)
 **Jméno a příjmení: Tomáš Barták**
 
 **Login: xbarta51**
